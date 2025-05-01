@@ -11,10 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/francisco brilhante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco brilhante" height="30" width="40" /></a>
-<a href="https://instagram.com/fbrilhante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fbrilhante" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@franciscobraga99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@franciscobraga99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fbrilhante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fbrilhante" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/fbrilhante" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="fbrilhante" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
