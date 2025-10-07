@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">A passionate developer from Brazil.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbrilhante&label=Profile%20views&color=0e75b6&style=flat" alt="fbrilhante" /> </p>
 
-- 🌱 I’m currently learning **GO,Python,C++,SQL**
+- 🌱 I’m currently learning **GO,Python,C,SQL**
 
 - 📫 How to reach me **franciscobraga99@gmail.com**
 
