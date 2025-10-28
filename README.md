@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbrilhante&label=Profile%20views&color=0e75b6&style=flat" alt="fbrilhante" /> </p>
 
-- 🌱 I’m currently learning **GO,Python,C,SQL**
+- 🌱 I’m currently learning **GO,Python,C,SQL,PostgreSQL**
 
 - 📫 How to reach me **franciscobraga99@gmail.com**
 
